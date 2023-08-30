@@ -1,0 +1,35 @@
+<html>
+    <head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+        <link rel="stylesheet" href="index.css">
+        <link href="https://fonts.cdnfonts.com/css/cursed-timer-ulil" rel="stylesheet">
+    </head>
+    <body>
+        <div class="container">
+            <div class="column">
+                <h3><span class="hometeam">HOME</span></h3>
+                <div class="homescore">
+                    <h2 id="homepoints">0</h2>
+                </div>
+                    <div>
+                        <button class="plusone" onclick="increaseHomeScoreOne()"><span id="onepoint-btn">+1</span></button>
+                        <button class="plustwo" onclick="increaseHomeScoreTwo()"><span id="twopoints-btn">+2</span></button>
+                        <button class="plusthree" onclick="increaseHomeScoreThree()"><span id="threepoints-btn">+3</span></button>
+                    </div>
+            </div>
+            
+            <!-- Away team code -->
+            
+            <div class="column">
+                <h3><span class="awayteam">GUEST</h3>
+                <div class="awayscore">
+                    <h2 id="awaypoints">0</h2>
+                </div>
+                    <div>
+                        <button class="awayplusone" onclick="increaseAwayScoreOne()"><span id="awayonepoint-btn">+1</span></button>
+                        <button class="awayplustwo" onclick="increaseAwayScoreTwo()"><span id="awaytwopoints-btn">+2</span></button>
+                        <button class="awayplusthree" onclick="increaseAwayScoreThree()"><span id="awaythreepoints-btn">+3</span></button>
+                    </div>
+            </div>
+        <script src="index.js"></script>
+    </body>
+</html>

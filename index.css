@@ -1,0 +1,230 @@
+body {
+    margin: 0;
+    text-align: center;
+    background-color: #1B244A;
+}
+
+.homescore {
+    background: #080001; 
+    width: 155px;
+    height: 120px;
+    Top: 125px;
+    left: 82px;
+    border-radius: 5px;
+}
+
+.hometeam {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size:40px;
+    line-height: 35.89px;
+    width: 149px;
+    height: 36px;
+    top: 68px;
+    left: 85px;
+    color: #EEEEEE;
+}
+
+#homepoints {
+    font-size: 90px;
+    color: #F94F6D;
+    margin: 20px;
+    width: 117px;
+    height: 120px;
+    top: 125px;
+    left: 100px;
+    line-height: 126.67px;
+    font-family: 'Cursed Timer ULiL', sans-serif;  
+    font-weight: 400;                                             
+}
+
+#onepoint-btn {
+    width: 30px;
+    height: 25.77px;
+    top: 280px;
+    left: 89px;
+    font-family: 'Cursed Timer ULiL', sans-serif; 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27.81px;
+    text-align: center;
+    color: #9AABD8;
+}
+
+.plusone {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 82px;
+    border-radius: 5px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    margin-top: 26px;
+    margin-right: 9px;
+}
+
+.plustwo {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 136px;
+    border-radius: 5px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+}
+
+#twopoints-btn {
+    width: 30px;
+    height: 25.77px;
+    top: 280px;
+    left: 143px;
+    font-family: 'Cursed Timer ULiL', sans-serif; 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27.81px;
+    text-align: center;
+    color: #9AABD8;
+}
+
+.plusthree {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 192px;
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+    color: #9AABD8;
+    margin-left: 11px;
+
+}
+
+#threepoints-btn {
+    width: 30px;
+    height: 25.77px;
+    top: 280px;
+    left: 199px;
+    font-family: 'Cursed Timer ULiL', sans-serif; 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27.81px;
+    text-align: center;
+    color: #9AABD8;
+}
+
+#awaypoints {
+    font-size: 90px;
+    color: #F94F6D;
+    width: 117px;
+    margin: 20px;
+    height: 120px;
+    top: 125px;
+    left: 355px;
+    line-height: 126.67px;
+    font-family: 'Cursed Timer ULiL', sans-serif;  
+    font-weight: 400;  
+}
+
+.awayscore {
+    background: #080001;
+    width: 155px;
+    height: 120px;
+    top: 125px;
+    left: 337px;
+    border-radius: 5px;
+}
+
+.awayteam {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size:40px;
+    line-height: 35.89px;
+    width: 149px;
+    height: 36px;
+    line-height: 35.89px;
+    top: 68px;
+    left: 340px;
+    color: #EEEEEE;  
+}
+
+#awayonepoint-btn {
+    width: 30px;
+    height: 25.77px;
+    top: 280px;
+    left: 344px;
+    font-family: 'Cursed Timer ULiL', sans-serif; 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27.81px;
+    text-align: center;
+    color: #9AABD8;
+}
+
+.awayplusone {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 337px;
+    border-radius: 5px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+    margin-top: 26px;
+    margin-right: 9px;
+}
+
+.awayplustwo {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 391px;
+    border-radius: 5px;
+    color: #9AABD8;
+    border: 2px solid #9AABD8;
+}
+
+#awaytwopoints-btn {
+    width: 30px;
+    height: 25.77px;
+    top: 280px;
+    left: 398px;
+    font-family: 'Cursed Timer ULiL', sans-serif; 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27.81px;
+    text-align: center;
+    color: #9AABD8;
+}
+
+.awayplusthree {
+    width: 45px;
+    height: 45px;
+    top: 271px;
+    left: 447px;
+    border-radius: 5px;
+    border: 2px solid #9AABD8;
+    color: #9AABD8;
+    margin-left: 11px;
+
+}
+
+#awaythreepoints-btn {
+    width: 30px;
+    height: 25.77px;
+    top: 280px;
+    left: 454px;
+    font-family: 'Cursed Timer ULiL', sans-serif; 
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27.81px;
+    text-align: center;
+    color: #9AABD8;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+button {
+    background: none;
+}
+

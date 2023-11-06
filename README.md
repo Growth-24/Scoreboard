@@ -1,13 +1,13 @@
-Scoreboard Tracker
+# Scoreboard Tracker
 
-A way for users to track score for either a sporting event or if just at home playing 1 on 1 in basketball.
+A way for users to track score for either a sporting event or if just at home playing 1 on 1 basketball.
 
-Author
+# Author
 Wayne Myrie Jr
 
-View project here: https://scoreboard-tracker.netlify.app/ 
+# View project here: https://scoreboard-tracker.netlify.app/ 
 
-Tech Stack
+# Tech Stack
 
 ```
 $ npm install

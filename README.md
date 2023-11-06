@@ -1,6 +1,14 @@
-# codc7435ea9690cd5539755f4
+#Scoreboard Tracker
 
-Quick start:
+Scoreboard Tracker
+
+A way for users to track score for either a sporting event or if just at home playing 1 on 1 in basketball.
+
+Author
+Wayne Myrie Jr
+
+
+Tech Stack
 
 ```
 $ npm install
